@@ -3,7 +3,7 @@
 
 介绍见：开源CH551/2实现的汇编优化高速DAP-Link (CMSIS-DAP v2)https://whycan.com/t_7786.html
 
-SWD引脚 P1.6和P1.7需并联
+SWD引脚 P1.5和P1.6需并联
 
 SWC引脚 P1.5
 
